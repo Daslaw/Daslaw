@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daslaw" alt="daslaw" /></a> </p>
 
-- 🌱 I’m currently learning **React,Solidity**
+- 🌱 I’m currently learning **React, Solidity**
 
 - 📝 I regularly write articles on [https://medium.com/@daslaw26](https://medium.com/@daslaw26)
 
