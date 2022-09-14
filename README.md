@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C#, Wordpress, GitHub, Bootstrap etc.**
 
-- 📫 How to reach me **Daslaw26@gmail.com**
+- 📫 How to reach me **Daslaw26[@]gmail.com**
 
 - ⚡ Fun fact **It’s still possible to visit the world’s first webpage**
 
