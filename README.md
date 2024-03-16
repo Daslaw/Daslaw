@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dauda Lawal</h1>
-<h3 align="center">A passionate 💛 Front-end developer💛Technical Writter💛Solidity Developer</h3>
+<h3 align="center">A passionate 💛 Software Developer💛Technical Writter💛Solidity Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daslaw" alt="daslaw" /></a> </p>
 
-- 🌱 I’m currently learning **React, Solidity**
-
 - 📝 I regularly write articles on [https://medium.com/@daslaw26](https://medium.com/@daslaw26)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C#, Wordpress, GitHub, Bootstrap etc.**
+- 💬 Ask me about **HTML, CSS, JavaScript, C#, WordPress, GitHub, Bootstrap, Solidity, Blockchain etc.**
 
 - 📫 How to reach me **Daslaw26[@]gmail.com**
 
